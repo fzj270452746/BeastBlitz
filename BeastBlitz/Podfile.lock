@@ -1,26 +1,22 @@
 PODS:
-  - Adjust (5.4.1):
-    - Adjust/Adjust (= 5.4.1)
-  - Adjust/Adjust (5.4.1):
-    - AdjustSignature (= 3.47.0)
-  - AdjustSignature (3.47.0)
   - Alamofire (5.10.2)
+  - AppsFlyerFramework (6.17.1):
+    - AppsFlyerFramework/Main (= 6.17.1)
+  - AppsFlyerFramework/Main (6.17.1)
 
 DEPENDENCIES:
-  - Adjust
   - Alamofire
+  - AppsFlyerFramework
 
 SPEC REPOS:
   trunk:
-    - Adjust
-    - AdjustSignature
     - Alamofire
+    - AppsFlyerFramework
 
 SPEC CHECKSUMS:
-  Adjust: 1ff981e84ae1306f8cce30e0661b3997dad1b85c
-  AdjustSignature: d634fc6b66295c38807f3b4e50978c1f72355950
   Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  AppsFlyerFramework: 11ef2dea3fa755f9ed8ba53267012ee1c62d7dc0
 
-PODFILE CHECKSUM: 1f40c4e0c5e3ca5e944ecf1eed1356e4b1d9be0c
+PODFILE CHECKSUM: 464775bb9b7b1c508ca97a7715c692052d834b96
 
 COCOAPODS: 1.16.2

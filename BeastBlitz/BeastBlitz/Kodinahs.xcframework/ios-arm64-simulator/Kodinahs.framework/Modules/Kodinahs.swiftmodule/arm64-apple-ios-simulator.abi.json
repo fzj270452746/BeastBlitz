@@ -6,6 +6,2654 @@
     "children": [
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Kodinahs"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GodieuyhsView",
+        "printedName": "GodieuyhsView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "vnoase",
+            "printedName": "vnoase",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvp",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvg",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvg",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvs",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvs",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvM",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvM",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mianous",
+            "printedName": "mianous",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvp",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvg",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvg",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvs",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvs",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvM",
+                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvM",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shangxjiun",
+            "printedName": "shangxjiun",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC10shangxjiun33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC10shangxjiun33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "xigeugr",
+            "printedName": "xigeugr",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC7xigeugr33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC7xigeugr33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 3,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "huxiange",
+            "printedName": "huxiange",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC8huxiange33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC8huxiange33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "isMenuExpanded",
+            "printedName": "isMenuExpanded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC14isMenuExpanded33_29D613AB9621B6F13CAD8C845B1E0DB9LLSbvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC14isMenuExpanded33_29D613AB9621B6F13CAD8C845B1E0DB9LLSbvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "animationDuration",
+            "printedName": "animationDuration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC17animationDuration33_29D613AB9621B6F13CAD8C845B1E0DB9LLSdvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC17animationDuration33_29D613AB9621B6F13CAD8C845B1E0DB9LLSdvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "subButtonSize",
+            "printedName": "subButtonSize",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC13subButtonSize33_29D613AB9621B6F13CAD8C845B1E0DB9LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC13subButtonSize33_29D613AB9621B6F13CAD8C845B1E0DB9LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 7,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "spacing",
+            "printedName": "spacing",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs13GodieuyhsViewC7spacing33_29D613AB9621B6F13CAD8C845B1E0DB9LL14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC7spacing33_29D613AB9621B6F13CAD8C845B1E0DB9LL12CoreGraphics7CGFloatVvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 8,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GodieuyhsView",
+                "printedName": "Kodinahs.GodieuyhsView",
+                "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView(im)initWithFrame:",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Kodinahs.GodieuyhsView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GodieuyhsView",
+                    "printedName": "Kodinahs.GodieuyhsView",
+                    "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView(im)initWithCoder:",
+            "mangledName": "$s8Kodinahs13GodieuyhsViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView",
+        "mangledName": "$s8Kodinahs13GodieuyhsViewC",
+        "moduleName": "Kodinahs",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Kodinahs"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DrukBalSpelView",
+        "printedName": "DrukBalSpelView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DrukBalSpelView",
+                "printedName": "Kodinahs.DrukBalSpelView",
+                "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)initWithFrame:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Kodinahs.DrukBalSpelView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrukBalSpelView",
+                    "printedName": "Kodinahs.DrukBalSpelView",
+                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)initWithCoder:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "touchesBegan",
+            "printedName": "touchesBegan(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Set",
+                "printedName": "Swift.Set<UIKit.UITouch>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITouch",
+                    "printedName": "UIKit.UITouch",
+                    "usr": "c:objc(cs)UITouch"
+                  }
+                ],
+                "usr": "s:Sh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesBegan:withEvent:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesBegan_4withyShySo7UITouchCG_So7UIEventCSgtF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "touchesBegan:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "touchesMoved",
+            "printedName": "touchesMoved(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Set",
+                "printedName": "Swift.Set<UIKit.UITouch>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITouch",
+                    "printedName": "UIKit.UITouch",
+                    "usr": "c:objc(cs)UITouch"
+                  }
+                ],
+                "usr": "s:Sh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesMoved:withEvent:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesMoved_4withyShySo7UITouchCG_So7UIEventCSgtF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "touchesMoved:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "touchesEnded",
+            "printedName": "touchesEnded(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Set",
+                "printedName": "Swift.Set<UIKit.UITouch>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITouch",
+                    "printedName": "UIKit.UITouch",
+                    "usr": "c:objc(cs)UITouch"
+                  }
+                ],
+                "usr": "s:Sh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesEnded:withEvent:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesEnded_4withyShySo7UITouchCG_So7UIEventCSgtF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "touchesEnded:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "touchesCancelled",
+            "printedName": "touchesCancelled(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Set",
+                "printedName": "Swift.Set<UIKit.UITouch>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITouch",
+                    "printedName": "UIKit.UITouch",
+                    "usr": "c:objc(cs)UITouch"
+                  }
+                ],
+                "usr": "s:Sh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesCancelled:withEvent:",
+            "mangledName": "$s8Kodinahs15DrukBalSpelViewC16touchesCancelled_4withyShySo7UITouchCG_So7UIEventCSgtF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "touchesCancelled:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView",
+        "mangledName": "$s8Kodinahs15DrukBalSpelViewC",
+        "moduleName": "Kodinahs",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DrukBalViewController",
+        "printedName": "DrukBalViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "spelView",
+            "printedName": "spelView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "Kodinahs.DrukBalSpelView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrukBalSpelView",
+                    "printedName": "Kodinahs.DrukBalSpelView",
+                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs21DrukBalViewControllerC04spelD033_21D0FE6D6680BE2F984BFC2396A94529LLAA0bc4SpelD0CSgvp",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC04spelD033_21D0FE6D6680BE2F984BFC2396A94529LLAA0bc4SpelD0CSgvp",
+            "moduleName": "Kodinahs",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)viewDidLoad",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC11viewDidLoadyyF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "prefersStatusBarHidden",
+            "printedName": "prefersStatusBarHidden",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(py)prefersStatusBarHidden",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC22prefersStatusBarHiddenSbvp",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "prefersStatusBarHidden",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)prefersStatusBarHidden",
+                "mangledName": "$s8Kodinahs21DrukBalViewControllerC22prefersStatusBarHiddenSbvg",
+                "moduleName": "Kodinahs",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "prefersStatusBarHidden",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s8Kodinahs21DrukBalViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "Kodinahs",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DrukBalViewController",
+                "printedName": "Kodinahs.DrukBalViewController",
+                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Kodinahs.DrukBalViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DrukBalViewController",
+                    "printedName": "Kodinahs.DrukBalViewController",
+                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)initWithCoder:",
+            "mangledName": "$s8Kodinahs21DrukBalViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController",
+        "mangledName": "$s8Kodinahs21DrukBalViewControllerC",
+        "moduleName": "Kodinahs",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Kodinahs"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "Kodinahs"
+      },
+      {
+        "kind": "Import",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
+        "declKind": "Import",
+        "moduleName": "Kodinahs"
+      },
+      {
+        "kind": "Var",
+        "name": "diaChon",
+        "printedName": "diaChon",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs7diaChonSSvp",
+        "mangledName": "$s8Kodinahs7diaChonSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "amt",
+        "printedName": "amt",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs3amtSSvp",
+        "mangledName": "$s8Kodinahs3amtSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "chozh",
+        "printedName": "chozh",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs5chozhSSvp",
+        "mangledName": "$s8Kodinahs5chozhSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "Brie",
+        "printedName": "Brie",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs4BrieSSvp",
+        "mangledName": "$s8Kodinahs4BrieSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "hdrawo",
+        "printedName": "hdrawo",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs6hdrawoSSvp",
+        "mangledName": "$s8Kodinahs6hdrawoSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "rams",
+        "printedName": "rams",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs4ramsSSvp",
+        "mangledName": "$s8Kodinahs4ramsSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "diyicicho",
+        "printedName": "diyicicho",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs9diyicichoSSvp",
+        "mangledName": "$s8Kodinahs9diyicichoSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "diyichCha",
+        "printedName": "diyichCha",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs9diyichChaSSvp",
+        "mangledName": "$s8Kodinahs9diyichChaSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "geicho",
+        "printedName": "geicho",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs6geichoSSvp",
+        "mangledName": "$s8Kodinahs6geichoSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "ren",
+        "printedName": "ren",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs3renSSvp",
+        "mangledName": "$s8Kodinahs3renSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "aTc",
+        "printedName": "aTc",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs3aTcSSvp",
+        "mangledName": "$s8Kodinahs3aTcSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "OpWin",
+        "printedName": "OpWin",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs5OpWinSSvp",
+        "mangledName": "$s8Kodinahs5OpWinSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "Var",
+        "name": "deop",
+        "printedName": "deop",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "String",
+            "printedName": "Swift.String",
+            "usr": "s:SS"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:8Kodinahs4deopSSvp",
+        "mangledName": "$s8Kodinahs4deopSSvp",
+        "moduleName": "Kodinahs",
+        "declAttributes": [
+          "HasInitialValue",
+          "HasStorage",
+          "RawDocComment"
+        ],
+        "isLet": true,
+        "hasStorage": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoirjysGauosViewController",
+        "printedName": "SoirjysGauosViewController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onConversionDataSuccess",
+            "printedName": "onConversionDataSuccess(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.AnyHashable : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AnyHashable",
+                    "printedName": "Swift.AnyHashable",
+                    "usr": "s:s11AnyHashableV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)onConversionDataSuccess:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC23onConversionDataSuccessyySDys11AnyHashableVypGF",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "objc_name": "onConversionDataSuccess:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onConversionDataFail",
+            "printedName": "onConversionDataFail(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "any Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)onConversionDataFail:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC20onConversionDataFailyys5Error_pF",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "objc_name": "onConversionDataFail:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "kuanst",
+            "printedName": "kuanst",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Kodinahs.Inaosjy?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Inaosjy",
+                    "printedName": "Kodinahs.Inaosjy",
+                    "usr": "s:8Kodinahs7InaosjyV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvp",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvp",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Kodinahs.Inaosjy?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Inaosjy",
+                        "printedName": "Kodinahs.Inaosjy",
+                        "usr": "s:8Kodinahs7InaosjyV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvg",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvg",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Kodinahs.Inaosjy?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Inaosjy",
+                        "printedName": "Kodinahs.Inaosjy",
+                        "usr": "s:8Kodinahs7InaosjyV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvs",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvs",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvM",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvM",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "laosnhe",
+            "printedName": "laosnhe",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvp",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvp",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvg",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvg",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "WebKit.WKWebView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WKWebView",
+                        "printedName": "WebKit.WKWebView",
+                        "usr": "c:objc(cs)WKWebView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvs",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvs",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvM",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvM",
+                "moduleName": "Kodinahs",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)viewDidLoad",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC11viewDidLoadyyF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLayoutSubviews",
+            "printedName": "viewDidLayoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)viewDidLayoutSubviews",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC21viewDidLayoutSubviewsyyF",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLayoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKNavigationActionPolicy",
+                    "printedName": "WebKit.WKNavigationActionPolicy",
+                    "usr": "c:@E@WKNavigationActionPolicy"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)webView:decidePolicyForNavigationAction:decisionHandler:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctF",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webView",
+            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WebKit.WKWebView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WKWebView",
+                    "printedName": "WebKit.WKWebView",
+                    "usr": "c:objc(cs)WKWebView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebViewConfiguration",
+                "printedName": "WebKit.WKWebViewConfiguration",
+                "usr": "c:objc(cs)WKWebViewConfiguration"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKNavigationAction",
+                "printedName": "WebKit.WKNavigationAction",
+                "usr": "c:objc(cs)WKNavigationAction"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWindowFeatures",
+                "printedName": "WebKit.WKWindowFeatures",
+                "usr": "c:objc(cs)WKWindowFeatures"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC03webD0_09createWebD4With3for14windowFeaturesSo05WKWebD0CSgAI_So0mD13ConfigurationCSo18WKNavigationActionCSo08WKWindowL0CtF",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "userContentController",
+            "printedName": "userContentController(_:didReceive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKUserContentController",
+                "printedName": "WebKit.WKUserContentController",
+                "usr": "c:objc(cs)WKUserContentController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKScriptMessage",
+                "printedName": "WebKit.WKScriptMessage",
+                "usr": "c:objc(cs)WKScriptMessage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)userContentController:didReceiveScriptMessage:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC011userContentE0_10didReceiveySo06WKUsergE0C_So15WKScriptMessageCtF",
+            "moduleName": "Kodinahs",
+            "isOpen": true,
+            "objc_name": "userContentController:didReceiveScriptMessage:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shouldAutorotate",
+            "printedName": "shouldAutorotate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(py)shouldAutorotate",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC16shouldAutorotateSbvp",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "shouldAutorotate",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)shouldAutorotate",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC16shouldAutorotateSbvg",
+                "moduleName": "Kodinahs",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "shouldAutorotate",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "Kodinahs",
+                "overriding": true,
+                "isOpen": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SoirjysGauosViewController",
+                "printedName": "Kodinahs.SoirjysGauosViewController",
+                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Kodinahs.SoirjysGauosViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoirjysGauosViewController",
+                    "printedName": "Kodinahs.SoirjysGauosViewController",
+                    "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)initWithCoder:",
+            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Kodinahs",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController",
+        "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC",
+        "moduleName": "Kodinahs",
+        "isOpen": true,
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -20,8 +2668,8 @@
       },
       {
         "kind": "Import",
-        "name": "AdjustSdk",
-        "printedName": "AdjustSdk",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
         "declKind": "Import",
         "moduleName": "Kodinahs"
       },
@@ -277,7 +2925,7 @@
       {
         "kind": "Function",
         "name": "fGSBSIoKSI",
-        "printedName": "fGSBSIoKSI(_:etDic:)",
+        "printedName": "fGSBSIoKSI(_:)",
         "children": [
           {
             "kind": "TypeNominal",
@@ -303,31 +2951,11 @@
               }
             ],
             "usr": "s:SD"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
           }
         ],
         "declKind": "Func",
-        "usr": "s:8Kodinahs10fGSBSIoKSI_5etDicySDyS2SG_ADtF",
-        "mangledName": "$s8Kodinahs10fGSBSIoKSI_5etDicySDyS2SG_ADtF",
+        "usr": "s:8Kodinahs10fGSBSIoKSIyySDyS2SGF",
+        "mangledName": "$s8Kodinahs10fGSBSIoKSIyySDyS2SGF",
         "moduleName": "Kodinahs",
         "declAttributes": [
           "RawDocComment"
@@ -337,7 +2965,7 @@
       {
         "kind": "Function",
         "name": "PindgtaFaus",
-        "printedName": "PindgtaFaus(_:_:)",
+        "printedName": "PindgtaFaus(_:)",
         "children": [
           {
             "kind": "TypeNominal",
@@ -363,31 +2991,11 @@
               }
             ],
             "usr": "s:SD"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
           }
         ],
         "declKind": "Func",
-        "usr": "s:8Kodinahs11PindgtaFausyySDyS2SG_ACtF",
-        "mangledName": "$s8Kodinahs11PindgtaFausyySDyS2SG_ACtF",
+        "usr": "s:8Kodinahs11PindgtaFausyySDyS2SGF",
+        "mangledName": "$s8Kodinahs11PindgtaFausyySDyS2SGF",
         "moduleName": "Kodinahs",
         "declAttributes": [
           "AccessControl"
@@ -2250,2581 +4858,6 @@
         "funcSelfKind": "NonMutating"
       },
       {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Kodinahs"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "GodieuyhsView",
-        "printedName": "GodieuyhsView",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "vnoase",
-            "printedName": "vnoase",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvp",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvg",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvg",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvs",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvs",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC6vnoaseyycSgvM",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC6vnoaseyycSgvM",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "mianous",
-            "printedName": "mianous",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvp",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvg",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvg",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvs",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvs",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs13GodieuyhsViewC7mianousyycSgvM",
-                "mangledName": "$s8Kodinahs13GodieuyhsViewC7mianousyycSgvM",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "shangxjiun",
-            "printedName": "shangxjiun",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC10shangxjiun33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC10shangxjiun33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 2,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "xigeugr",
-            "printedName": "xigeugr",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC7xigeugr33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC7xigeugr33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 3,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "huxiange",
-            "printedName": "huxiange",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC8huxiange33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC8huxiange33_29D613AB9621B6F13CAD8C845B1E0DB9LLSo8UIButtonCSgvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 4,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "isMenuExpanded",
-            "printedName": "isMenuExpanded",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC14isMenuExpanded33_29D613AB9621B6F13CAD8C845B1E0DB9LLSbvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC14isMenuExpanded33_29D613AB9621B6F13CAD8C845B1E0DB9LLSbvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 5,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "animationDuration",
-            "printedName": "animationDuration",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC17animationDuration33_29D613AB9621B6F13CAD8C845B1E0DB9LLSdvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC17animationDuration33_29D613AB9621B6F13CAD8C845B1E0DB9LLSdvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 6,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "subButtonSize",
-            "printedName": "subButtonSize",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC13subButtonSize33_29D613AB9621B6F13CAD8C845B1E0DB9LL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC13subButtonSize33_29D613AB9621B6F13CAD8C845B1E0DB9LL12CoreGraphics7CGFloatVvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 7,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "spacing",
-            "printedName": "spacing",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs13GodieuyhsViewC7spacing33_29D613AB9621B6F13CAD8C845B1E0DB9LL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC7spacing33_29D613AB9621B6F13CAD8C845B1E0DB9LL12CoreGraphics7CGFloatVvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 8,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "GodieuyhsView",
-                "printedName": "Kodinahs.GodieuyhsView",
-                "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView(im)initWithFrame:",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "RawDocComment"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Kodinahs.GodieuyhsView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "GodieuyhsView",
-                    "printedName": "Kodinahs.GodieuyhsView",
-                    "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView(im)initWithCoder:",
-            "mangledName": "$s8Kodinahs13GodieuyhsViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@Kodinahs@objc(cs)GodieuyhsView",
-        "mangledName": "$s8Kodinahs13GodieuyhsViewC",
-        "moduleName": "Kodinahs",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Kodinahs"
-      },
-      {
-        "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "Kodinahs"
-      },
-      {
-        "kind": "Import",
-        "name": "AdjustSdk",
-        "printedName": "AdjustSdk",
-        "declKind": "Import",
-        "moduleName": "Kodinahs"
-      },
-      {
-        "kind": "Var",
-        "name": "diaChon",
-        "printedName": "diaChon",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs7diaChonSSvp",
-        "mangledName": "$s8Kodinahs7diaChonSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "amt",
-        "printedName": "amt",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs3amtSSvp",
-        "mangledName": "$s8Kodinahs3amtSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "chozh",
-        "printedName": "chozh",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs5chozhSSvp",
-        "mangledName": "$s8Kodinahs5chozhSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "Brie",
-        "printedName": "Brie",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs4BrieSSvp",
-        "mangledName": "$s8Kodinahs4BrieSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "hdrawo",
-        "printedName": "hdrawo",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs6hdrawoSSvp",
-        "mangledName": "$s8Kodinahs6hdrawoSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "rams",
-        "printedName": "rams",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs4ramsSSvp",
-        "mangledName": "$s8Kodinahs4ramsSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyicicho",
-        "printedName": "diyicicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs9diyicichoSSvp",
-        "mangledName": "$s8Kodinahs9diyicichoSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyichCha",
-        "printedName": "diyichCha",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs9diyichChaSSvp",
-        "mangledName": "$s8Kodinahs9diyichChaSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "geicho",
-        "printedName": "geicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs6geichoSSvp",
-        "mangledName": "$s8Kodinahs6geichoSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "ren",
-        "printedName": "ren",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs3renSSvp",
-        "mangledName": "$s8Kodinahs3renSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "aTc",
-        "printedName": "aTc",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs3aTcSSvp",
-        "mangledName": "$s8Kodinahs3aTcSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "OpWin",
-        "printedName": "OpWin",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs5OpWinSSvp",
-        "mangledName": "$s8Kodinahs5OpWinSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "deop",
-        "printedName": "deop",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:8Kodinahs4deopSSvp",
-        "mangledName": "$s8Kodinahs4deopSSvp",
-        "moduleName": "Kodinahs",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "SoirjysGauosViewController",
-        "printedName": "SoirjysGauosViewController",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "kuanst",
-            "printedName": "kuanst",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Kodinahs.Inaosjy?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Inaosjy",
-                    "printedName": "Kodinahs.Inaosjy",
-                    "usr": "s:8Kodinahs7InaosjyV"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvp",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvp",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Kodinahs.Inaosjy?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Inaosjy",
-                        "printedName": "Kodinahs.Inaosjy",
-                        "usr": "s:8Kodinahs7InaosjyV"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvg",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvg",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Kodinahs.Inaosjy?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Inaosjy",
-                        "printedName": "Kodinahs.Inaosjy",
-                        "usr": "s:8Kodinahs7InaosjyV"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvs",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvs",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvM",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC6kuanstAA7InaosjyVSgvM",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "laosnhe",
-            "printedName": "laosnhe",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WebKit.WKWebView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKWebView",
-                    "printedName": "WebKit.WKWebView",
-                    "usr": "c:objc(cs)WKWebView"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvp",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvp",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "WebKit.WKWebView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "WKWebView",
-                        "printedName": "WebKit.WKWebView",
-                        "usr": "c:objc(cs)WKWebView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvg",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvg",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "WebKit.WKWebView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "WKWebView",
-                        "printedName": "WebKit.WKWebView",
-                        "usr": "c:objc(cs)WKWebView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvs",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvs",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvM",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7laosnheSo05WKWebD0CSgvM",
-                "moduleName": "Kodinahs",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)viewDidLoad",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC11viewDidLoadyyF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidLayoutSubviews",
-            "printedName": "viewDidLayoutSubviews()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)viewDidLayoutSubviews",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC21viewDidLayoutSubviewsyyF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLayoutSubviews",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "webView",
-            "printedName": "webView(_:decidePolicyFor:decisionHandler:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebView",
-                "printedName": "WebKit.WKWebView",
-                "usr": "c:objc(cs)WKWebView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKNavigationAction",
-                "printedName": "WebKit.WKNavigationAction",
-                "usr": "c:objc(cs)WKNavigationAction"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(WebKit.WKNavigationActionPolicy) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKNavigationActionPolicy",
-                    "printedName": "WebKit.WKNavigationActionPolicy",
-                    "usr": "c:@E@WKNavigationActionPolicy"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)webView:decidePolicyForNavigationAction:decisionHandler:",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctF",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "objc_name": "webView:decidePolicyForNavigationAction:decisionHandler:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "webView",
-            "printedName": "webView(_:createWebViewWith:for:windowFeatures:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WebKit.WKWebView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "WKWebView",
-                    "printedName": "WebKit.WKWebView",
-                    "usr": "c:objc(cs)WKWebView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebView",
-                "printedName": "WebKit.WKWebView",
-                "usr": "c:objc(cs)WKWebView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWebViewConfiguration",
-                "printedName": "WebKit.WKWebViewConfiguration",
-                "usr": "c:objc(cs)WKWebViewConfiguration"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKNavigationAction",
-                "printedName": "WebKit.WKNavigationAction",
-                "usr": "c:objc(cs)WKNavigationAction"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKWindowFeatures",
-                "printedName": "WebKit.WKWindowFeatures",
-                "usr": "c:objc(cs)WKWindowFeatures"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC03webD0_09createWebD4With3for14windowFeaturesSo05WKWebD0CSgAI_So0mD13ConfigurationCSo18WKNavigationActionCSo08WKWindowL0CtF",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "objc_name": "webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "userContentController",
-            "printedName": "userContentController(_:didReceive:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKUserContentController",
-                "printedName": "WebKit.WKUserContentController",
-                "usr": "c:objc(cs)WKUserContentController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKScriptMessage",
-                "printedName": "WebKit.WKScriptMessage",
-                "usr": "c:objc(cs)WKScriptMessage"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)userContentController:didReceiveScriptMessage:",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC011userContentE0_10didReceiveySo06WKUsergE0C_So15WKScriptMessageCtF",
-            "moduleName": "Kodinahs",
-            "isOpen": true,
-            "objc_name": "userContentController:didReceiveScriptMessage:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "shouldAutorotate",
-            "printedName": "shouldAutorotate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(py)shouldAutorotate",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC16shouldAutorotateSbvp",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "shouldAutorotate",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)shouldAutorotate",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC16shouldAutorotateSbvg",
-                "moduleName": "Kodinahs",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "shouldAutorotate",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "supportedInterfaceOrientations",
-            "printedName": "supportedInterfaceOrientations",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIInterfaceOrientationMask",
-                "printedName": "UIKit.UIInterfaceOrientationMask",
-                "usr": "c:@E@UIInterfaceOrientationMask"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(py)supportedInterfaceOrientations",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "supportedInterfaceOrientations",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIInterfaceOrientationMask",
-                    "printedName": "UIKit.UIInterfaceOrientationMask",
-                    "usr": "c:@E@UIInterfaceOrientationMask"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)supportedInterfaceOrientations",
-                "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
-                "moduleName": "Kodinahs",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "supportedInterfaceOrientations",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "SoirjysGauosViewController",
-                "printedName": "Kodinahs.SoirjysGauosViewController",
-                "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Kodinahs.SoirjysGauosViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "SoirjysGauosViewController",
-                    "printedName": "Kodinahs.SoirjysGauosViewController",
-                    "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController(im)initWithCoder:",
-            "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@Kodinahs@objc(cs)SoirjysGauosViewController",
-        "mangledName": "$s8Kodinahs26SoirjysGauosViewControllerC",
-        "moduleName": "Kodinahs",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "RawDocComment",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIViewController",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "Kodinahs"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "DrukBalSpelView",
-        "printedName": "DrukBalSpelView",
-        "children": [
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "DrukBalSpelView",
-                "printedName": "Kodinahs.DrukBalSpelView",
-                "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)initWithFrame:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "RawDocComment"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Kodinahs.DrukBalSpelView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DrukBalSpelView",
-                    "printedName": "Kodinahs.DrukBalSpelView",
-                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)initWithCoder:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "touchesBegan",
-            "printedName": "touchesBegan(_:with:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Set",
-                "printedName": "Swift.Set<UIKit.UITouch>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UITouch",
-                    "printedName": "UIKit.UITouch",
-                    "usr": "c:objc(cs)UITouch"
-                  }
-                ],
-                "usr": "s:Sh"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIEvent?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIEvent",
-                    "printedName": "UIKit.UIEvent",
-                    "usr": "c:objc(cs)UIEvent"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesBegan:withEvent:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesBegan_4withyShySo7UITouchCG_So7UIEventCSgtF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "touchesBegan:withEvent:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "touchesMoved",
-            "printedName": "touchesMoved(_:with:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Set",
-                "printedName": "Swift.Set<UIKit.UITouch>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UITouch",
-                    "printedName": "UIKit.UITouch",
-                    "usr": "c:objc(cs)UITouch"
-                  }
-                ],
-                "usr": "s:Sh"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIEvent?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIEvent",
-                    "printedName": "UIKit.UIEvent",
-                    "usr": "c:objc(cs)UIEvent"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesMoved:withEvent:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesMoved_4withyShySo7UITouchCG_So7UIEventCSgtF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "touchesMoved:withEvent:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "touchesEnded",
-            "printedName": "touchesEnded(_:with:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Set",
-                "printedName": "Swift.Set<UIKit.UITouch>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UITouch",
-                    "printedName": "UIKit.UITouch",
-                    "usr": "c:objc(cs)UITouch"
-                  }
-                ],
-                "usr": "s:Sh"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIEvent?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIEvent",
-                    "printedName": "UIKit.UIEvent",
-                    "usr": "c:objc(cs)UIEvent"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesEnded:withEvent:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC12touchesEnded_4withyShySo7UITouchCG_So7UIEventCSgtF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "touchesEnded:withEvent:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "touchesCancelled",
-            "printedName": "touchesCancelled(_:with:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Set",
-                "printedName": "Swift.Set<UIKit.UITouch>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UITouch",
-                    "printedName": "UIKit.UITouch",
-                    "usr": "c:objc(cs)UITouch"
-                  }
-                ],
-                "usr": "s:Sh"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIEvent?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIEvent",
-                    "printedName": "UIKit.UIEvent",
-                    "usr": "c:objc(cs)UIEvent"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView(im)touchesCancelled:withEvent:",
-            "mangledName": "$s8Kodinahs15DrukBalSpelViewC16touchesCancelled_4withyShySo7UITouchCG_So7UIEventCSgtF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "touchesCancelled:withEvent:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView",
-        "mangledName": "$s8Kodinahs15DrukBalSpelViewC",
-        "moduleName": "Kodinahs",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "RawDocComment",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "hasMissingDesignatedInitializers": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "DrukBalViewController",
-        "printedName": "DrukBalViewController",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "spelView",
-            "printedName": "spelView",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "Kodinahs.DrukBalSpelView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DrukBalSpelView",
-                    "printedName": "Kodinahs.DrukBalSpelView",
-                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalSpelView"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8Kodinahs21DrukBalViewControllerC04spelD033_21D0FE6D6680BE2F984BFC2396A94529LLAA0bc4SpelD0CSgvp",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC04spelD033_21D0FE6D6680BE2F984BFC2396A94529LLAA0bc4SpelD0CSgvp",
-            "moduleName": "Kodinahs",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true
-          },
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)viewDidLoad",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC11viewDidLoadyyF",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "prefersStatusBarHidden",
-            "printedName": "prefersStatusBarHidden",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(py)prefersStatusBarHidden",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC22prefersStatusBarHiddenSbvp",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "prefersStatusBarHidden",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)prefersStatusBarHidden",
-                "mangledName": "$s8Kodinahs21DrukBalViewControllerC22prefersStatusBarHiddenSbvg",
-                "moduleName": "Kodinahs",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "prefersStatusBarHidden",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "supportedInterfaceOrientations",
-            "printedName": "supportedInterfaceOrientations",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIInterfaceOrientationMask",
-                "printedName": "UIKit.UIInterfaceOrientationMask",
-                "usr": "c:@E@UIInterfaceOrientationMask"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(py)supportedInterfaceOrientations",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "isOpen": true,
-            "objc_name": "supportedInterfaceOrientations",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIInterfaceOrientationMask",
-                    "printedName": "UIKit.UIInterfaceOrientationMask",
-                    "usr": "c:@E@UIInterfaceOrientationMask"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)supportedInterfaceOrientations",
-                "mangledName": "$s8Kodinahs21DrukBalViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
-                "moduleName": "Kodinahs",
-                "overriding": true,
-                "isOpen": true,
-                "objc_name": "supportedInterfaceOrientations",
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "DrukBalViewController",
-                "printedName": "Kodinahs.DrukBalViewController",
-                "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Kodinahs.DrukBalViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DrukBalViewController",
-                    "printedName": "Kodinahs.DrukBalViewController",
-                    "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController(im)initWithCoder:",
-            "mangledName": "$s8Kodinahs21DrukBalViewControllerC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "Kodinahs",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@Kodinahs@objc(cs)DrukBalViewController",
-        "mangledName": "$s8Kodinahs21DrukBalViewControllerC",
-        "moduleName": "Kodinahs",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "RawDocComment",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIViewController",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          }
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "String",
         "printedName": "String",
@@ -5604,83 +5637,6 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 581,
-      "length": 46,
-      "value": "\"u6eno6Dp\/Pyyo7r9vqr+uqP9urz8peH8uqP9uaC8vQ==\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 728,
-      "length": 78,
-      "value": "\"u6eno6Dp\/Pzl6ueysrLh4uHltuvk4+Tk4ePl5eCxt+P9vrywuLKjuv26vPyxtrKgp\/yRv7qnqQ==\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 2023,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 2197,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 2213,
-      "length": 6,
-      "value": "\"data\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 2229,
-      "length": 5,
-      "value": "\"url\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 3478,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 4509,
-      "length": 6,
-      "value": "\"hoA=\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "StringLiteral",
-      "offset": 4526,
-      "length": 6,
-      "value": "\"nZ8=\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "FloatLiteral",
-      "offset": 5812,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
-      "kind": "FloatLiteral",
-      "offset": 6107,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
       "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/GodieuyhsView.swift",
       "kind": "BooleanLiteral",
       "offset": 335,
@@ -5707,104 +5663,6 @@
       "offset": 460,
       "length": 2,
       "value": "10"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 289,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 333,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 371,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 411,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 461,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 510,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 553,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 603,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 646,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 686,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 725,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 764,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 807,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4602,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/DrukBalSpelView.swift",
@@ -6316,6 +6174,181 @@
       "offset": 23594,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 292,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 374,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 414,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 464,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 513,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 556,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 606,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 649,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 689,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 728,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 767,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 810,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/SoirjysGauosViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4600,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 584,
+      "length": 46,
+      "value": "\"u6eno6Dp\/Pyyo7r9vqr+uqP9urz8peH8uqP9uaC8vQ==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 731,
+      "length": 78,
+      "value": "\"u6eno6Dp\/Pzl6ueysrLh4uHltuvk4+Tk4ePl5eCxt+P9vrywuLKjuv26vPyxtrKgp\/yRv7qnqQ==\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 2026,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 2200,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 2216,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 2232,
+      "length": 5,
+      "value": "\"url\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 3130,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 4134,
+      "length": 6,
+      "value": "\"hoA=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "StringLiteral",
+      "offset": 4151,
+      "length": 6,
+      "value": "\"nZ8=\""
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "FloatLiteral",
+      "offset": 5437,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/12\/1224-1\/Kodinahs\/Kodinahs\/Trashdi.swift",
+      "kind": "FloatLiteral",
+      "offset": 5732,
+      "length": 3,
+      "value": "1.0"
     }
   ]
 }
